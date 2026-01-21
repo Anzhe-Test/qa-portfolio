@@ -5,6 +5,7 @@ based on testing a real e-commerce demo website.
 
 ## Project Under Test
 **Website:** https://academybugs.com/find-bugs/
+             https://sweetshop.netlify.app/
 **Type:** E-commerce (Demo)  
 **Testing Type:** Manual Web Testing  
 **Focus Areas:** Functional testing, UI testing, basic usability testing
