@@ -4,7 +4,7 @@ This portfolio demonstrates my skills in creating QA documentation and identifyi
 based on testing a real e-commerce demo website.
 
 ## Project Under Test
-**Website:** https://academybugs.com/find-bugs/  
+**Website:** https://academybugs.com/find-bugs/<br>  
              https://sweetshop.netlify.app/  
 **Type:** E-commerce (Demo)  
 **Testing Type:** Manual Web Testing  
