@@ -1,35 +1,92 @@
+Junior QA Engineer — Portfolio
+
 ## About Me
-I am a Junior QA  with hands-on practice in manual testing of web applications.
-This portfolio demonstrates my skills in creating QA documentation and identifying issues
-based on testing a real e-commerce demo website.
+I am a Junior QA Engineer with hands-on practice in **manual testing of web applications, API testing, and SQL**.
+This portfolio demonstrates my practical QA skills through several training projects, including:
+* manual testing of web applications;
+* creating QA documentation;
+* functional and UI testing;
+* API testing with Postman;
+* working with REST APIs and HTTP methods;
+* writing SQL queries and testing data in a database;
+* identifying, documenting, and reporting defects.
+My current focus is **Web and API testing**, with an interest in developing further toward test automation and security testing.
 
-Project Under Test
-**Website:**   
-  -https://academybugs.com/find-bugs/  
-  -https://sweetshop.netlify.app/  
-**Type:** E-commerce (Demo)  
-**Testing Type:** Manual Web Testing  
-**Focus Areas:** Functional testing, UI testing, basic usability testing
+## Projects
 
-## Scope of Testing
-- Home page and navigation
-- Product catalog
-- Search functionality
-- Add to cart functionality
-- UI elements and basic validations
+### 1. Manual Web Testing
 
-## QA Artifacts Included
-This repository contains the following QA documentation:
-- Checklist
-- Test Cases
-- Bug Reports
+* Academy Bugs — https://academybugs.com/find-bugs/
+* Sweet Shop — https://sweetshop.netlify.app/
+
+**Focus Areas:**
+- Functional testing
+- UI testing
+- Navigation
+- Basic input validation* Functional testing
 
 
-## Tools Used
-- Manual testing
-- Browser: Google Chrome, Firefox
-- Documentation: Excel
-- This project was tested for learning and portfolio purposes.
+**QA Artifacts:**
+* Checklists
+* Test Cases
+* Bug Reports
+
+The testing documentation is provided in Excel format.
+
+
+### 2. API Testing — Postman
+A separate project demonstrating practical API testing using **Postman**.
+
+**Focus Areas:**
+* REST API
+* HTTP methods
+* Request and response validation
+* HTTP status codes
+* Headers
+* Request parameters
+* JSON
+* CRUD operations
+* Bearer tokens
+* Environment variables
+* Positive and negative testing
+
+
+### 3. SQL Database Testing
+A training project focused on working with a relational database and validating data using SQL.
+
+**Focus Areas:**
+* SQL queries
+* SELECT
+* WHERE
+* ORDER BY
+* GROUP BY
+* JOIN
+* Aggregate functions
+* Data filtering and validation
+* Checking data consistency
+
+## Portfolio Structure
+This repository contains separate projects demonstrating different areas of QA:
+
+QA-Portfolio/
+│
+├── Manual-Web-Testing/
+│   ├── Checklists
+│   ├── Test-Cases
+│   └── Bug-Reports
+│
+├── API-Testing-Postman/
+│   ├── README.md
+│   └── postman_project     
+│
+├── SQL-Database-Testing
+│   ├── README.md
+│   └── sql_progect
+│
+└── README.md
+
+
+
 
 
 
