@@ -1,4 +1,3 @@
-Project Overview
 This project demonstrates API testing using **Postman** and the **Swagger Petstore REST API**.
 The collection contains positive and negative API tests with automated assertions written in Postman.
 
