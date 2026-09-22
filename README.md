@@ -1,9 +1,9 @@
 ## About Me
-I am a Junior QA Engineer with hands-on practice in manual testing of web applications.
+I am a Junior QA  with hands-on practice in manual testing of web applications.
 This portfolio demonstrates my skills in creating QA documentation and identifying issues
 based on testing a real e-commerce demo website.
 
-## Project Under Test
+Project Under Test
 **Website:**   
   -https://academybugs.com/find-bugs/  
   -https://sweetshop.netlify.app/  
