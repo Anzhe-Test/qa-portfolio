@@ -71,9 +71,7 @@ This repository contains separate projects demonstrating different areas of QA:
 QA-Portfolio/
 │
 ├── Manual-Web-Testing/
-│   ├── Checklists
-│   ├── Test-Cases
-│   └── Bug-Reports
+│   └── QA_Test_Cases_and_Bug_Reports.xlsx
 │
 ├── API-Testing-Postman/
 │   ├── README.md
