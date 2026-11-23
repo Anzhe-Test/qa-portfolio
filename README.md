@@ -1,8 +1,8 @@
-# Junior QA Engineer | Portfolio
+# Junior QA| Portfolio
 
 ## About Me
 
-Junior QA Engineer focused on **manual web testing, API testing, and SQL-based data validation**.
+Junior QA focused on **manual web testing, API testing, and SQL-based data validation**.
 
 This portfolio showcases my practical testing skills through hands-on projects involving web application testing, test documentation, REST API validation, and database testing.
 
