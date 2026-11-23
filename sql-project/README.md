@@ -1,20 +1,25 @@
-Note: The SQLite schema and synthetic test data (including intentional edge cases and bugs) were generated with AI assistance to simulate real-world e-commerce data corruption.
+# SQL Database Testing
 
-🎯 Overview
-A practical QA project focused on **relational database testing, data integrity verification, and business logic validation** using SQLite.
+## Project Overview
+SQL testing of an e-commerce database using SQLite, focusing on data quality, data integrity, and business-rule validation.
 
-🧰 Key QA Skills
-SQL Proficiency:** `INNER JOIN`, `LEFT JOIN`, `GROUP BY`, `HAVING`, aggregations (`SUM`, `COUNT`, `AVG`), and `NULL` handling.
-Data Integrity Auditing:** Writing validation scripts to catch backend calculation errors and rule violations.
-Edge Case Testing:** Uncovering unlinked records, missing attributes, and inventory anomalies.
+## Database
+- Customers
+- Products
+- Orders
+- Order Items
 
-🐞 Tested Bugs & Anomalies
-The 4-table database (`customers`, `products`, `orders`, `order_items`) contains 4 simulated defects:
-1. **Incomplete Profiles:** Active users missing `email` or `phone` (`NULL` check).
-2. **Non-Purchasing Users:** Registered accounts with zero orders (`LEFT JOIN` audit).
-3. **Inventory Logic Violation:** Orders completed with out-of-stock (`stock_quantity = 0`) or disabled items.
-4. **Price Mismatch Bug:** Discrepancies between `orders.total_amount` and the calculated sum of items in `order_items`.
+## QA Checks
+- Missing customer contact information
+- Customers with multiple or no orders
+- Completed orders without order items
+- Inventory availability issues
+- Order total discrepancies
+- Product statistics by category
 
-📄 Repository Files
-schema.sql — Table definitions and mock dataset with embedded defects.
-queries.sql — 7 production-like SQL queries verifying the data and detecting the bugs above.
+## Files
+- `schema.sql` — database schema and sample data
+- `queries.sql` — SQL queries for QA checks and data analysis
+
+## Notes
+Synthetic data was created with AI assistance. Inventory checks use current stock data and cannot verify stock availability at the time of purchase.
