@@ -1,87 +1,97 @@
-Junior QA Engineer — Portfolio
+# Junior QA Engineer | Portfolio
 
 ## About Me
-I am a Junior QA Engineer with hands-on practice in **manual testing of web applications, API testing, and SQL**.
-This portfolio demonstrates my practical QA skills through several training projects, including:
-* manual testing of web applications;
-* creating QA documentation;
-* functional and UI testing;
-* API testing with Postman;
-* working with REST APIs and HTTP methods;
-* writing SQL queries and testing data in a database;
-* identifying, documenting, and reporting defects.
-My current focus is **Web and API testing**, with an interest in developing further toward test automation and security testing.
+
+Junior QA Engineer focused on **manual web testing, API testing, and SQL-based data validation**.
+
+This portfolio showcases my practical testing skills through hands-on projects involving web application testing, test documentation, REST API validation, and database testing.
+
+My QA practice includes:
+
+- Manual testing of web applications
+- Functional, UI, and exploratory testing
+- Test case and checklist creation
+- Bug identification and reporting
+- REST API testing with Postman
+- SQL queries for data validation
+
+**Current focus:** Web and API testing, with further development in test automation.
 
 ## Projects
 
-### 1. Manual Web Testing
+### 1. Manual Web Application Testing
 
-* Academy Bugs — https://academybugs.com/find-bugs/
-* Sweet Shop — https://sweetshop.netlify.app/
+**Applications:**
+- [Academy Bugs](https://academybugs.com/find-bugs/)
+- [Sweet Shop](https://sweetshop.netlify.app/)
 
-**Focus Areas:**
+Practiced manual testing of web application functionality and user interface behavior.
+
+**Testing areas:**
 - Functional testing
 - UI testing
-- Navigation
-- Basic input validation* Functional testing
+- Navigation and user flows
+- Input validation
+- Exploratory testing
 
+**QA documentation:**
+- Checklists
+- Test cases
+- Bug reports
 
-**QA Artifacts:**
-* Checklists
-* Test Cases
-* Bug Reports
+Test documentation is available in Excel format.
 
-The testing documentation is provided in Excel format.
-
+---
 
 ### 2. API Testing — Postman
-A separate project demonstrating practical API testing using **Postman**.
 
-**Focus Areas:**
-* REST API
-* HTTP methods
-* Request and response validation
-* HTTP status codes
-* Headers
-* Request parameters
-* JSON
-* CRUD operations
-* Bearer tokens
-* Environment variables
-* Positive and negative testing
+A practical project demonstrating testing of REST APIs using Postman.
 
+**Testing areas:**
+- HTTP methods and CRUD operations
+- Request and response validation
+- Status codes and headers
+- Query and path parameters
+- JSON data validation
+- Authentication using Bearer tokens
+- Variables and environments
+- Positive and negative scenarios
+
+Project files and documentation are available in the dedicated folder.
+
+---
 
 ### 3. SQL Database Testing
-A training project focused on working with a relational database and validating data using SQL.
 
-**Focus Areas:**
-* SQL queries
-* SELECT
-* WHERE
-* ORDER BY
-* GROUP BY
-* JOIN
-* Aggregate functions
-* Data filtering and validation
-* Checking data consistency
+A practical project focused on querying and validating data in a relational database using SQL.
 
-## Portfolio Structure
-This repository contains separate projects demonstrating different areas of QA:
+**Skills demonstrated:**
+- SELECT and filtering with WHERE
+- Sorting with ORDER BY
+- GROUP BY
+- JOIN
+- Aggregate functions
+- Data validation and consistency checks
 
-QA-Portfolio/
-│
-├── Manual-Web-Testing/
-│   └── QA_Test_Cases_and_Bug_Reports.xlsx
-│
-├── API-Testing-Postman/
-│   ├── README.md
-│   └── postman_project     
-│
-├── SQL-Database-Testing
-│   ├── README.md
-│   └── sql_progect
-│
-└── README.md
+SQL examples and project documentation are available in the dedicated folder.
+
+## Repository Structure
+
+- `Manual-Web-Testing/` — test cases, checklists and bug reports
+- `API-Testing-Postman/` — Postman collection, API testing files and README
+- `SQL-Database-Testing/` — SQL exercises, queries and project documentation
+
+## Tools & Technologies
+
+**Testing:** Manual Testing, Functional Testing, UI Testing, Exploratory Testing, Regression Testing
+
+**API:** Postman, REST API, HTTP, JSON
+
+**Database:** SQL
+
+**Tools:** Chrome DevTools, Git, GitHub
+
+
 
 
 
